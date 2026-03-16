@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/trigbayb/Leetcode-Pandas/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1763-longest-nice-substring](https://github.com/trigbayb/Leetcode-Pandas/tree/main/1763-longest-nice-substring/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -39,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/trigbayb/Leetcode-Pandas/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/trigbayb/Leetcode-Pandas/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 <!---LeetCode Topics End-->
