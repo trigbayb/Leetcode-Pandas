@@ -7,4 +7,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/trigbayb/Leetcode-Pandas/tree/main/0176-second-highest-salary/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/trigbayb/Leetcode-Pandas/tree/main/1763-longest-nice-substring/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/trigbayb/Leetcode-Pandas/tree/main/1763-longest-nice-substring/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/trigbayb/Leetcode-Pandas/tree/main/1763-longest-nice-substring/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/trigbayb/Leetcode-Pandas/tree/main/1763-longest-nice-substring/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/trigbayb/Leetcode-Pandas/tree/main/1763-longest-nice-substring/) | Easy |
 <!---LeetCode Topics End-->
